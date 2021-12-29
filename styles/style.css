@@ -1,0 +1,13 @@
+hr {
+   
+    height: 3px;
+    background-color:black;
+}
+
+.my_center{
+    text-align: center;
+}
+
+.my_text{
+    font-weight: 700;
+}
